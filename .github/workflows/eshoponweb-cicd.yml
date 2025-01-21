@@ -5,10 +5,10 @@ on: [push, workflow_dispatch]
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
-  RESOURCE-GROUP: xlabs225
-  LOCATION: westus
+  RESOURCE-GROUP: xlabs2258
+  LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 5f7a1c56-1a23-4246-8bd2-e8ad882232eb
+  SUBSCRIPTION-ID: 0790215c-2739-4fcf-b795-fd1ddfe3fe94
   WEBAPP-NAME: draj1013
 
 
